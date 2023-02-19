@@ -1,0 +1,35 @@
+
+body{
+    background-image: url(https://img.freepik.com/fotos-premium/fundo-bege-antigo-vintage-em-branco-cartao-papelao-espaco-de-artesanato-para-texto-textura_213524-184.jpg?w=2000);
+    opacity: 1;
+   }
+
+h1{
+   background-color: black;
+   color: white;
+   text-align: center;
+   font-size: 50px;
+}
+
+.minhadiv
+
+img{ 
+   width: 100%;
+   height: auto;
+ 
+}
+
+.minhadiv1{
+   color: black;
+   text-align: center;
+   font-size: 35px;
+}
+
+.minhadiv2{
+   display: grid;
+   grid-template-columns: repeat(3, 1fr);
+   row-gap: 20px;
+   width: 100%;
+   height: 100px;
+   font-size: 25px;
+}
